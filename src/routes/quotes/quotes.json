@@ -1,0 +1,27 @@
+{
+  "quotations": [{
+      "id": 0,
+      "quote": "The most important thing I look for in a musician is whether he knows how to listen.",
+      "author": "Duke Ellington"
+    },
+    {
+      "id": 1,
+      "quote": "Jazz is played from the heart. You can even live by it. Always love it.",
+      "author": "Louis Armstrong"
+    },
+    {
+      "id": 2,
+      "quote": "You not only have to know your own instrument, you must know the others and how to back them up at all times. That’s jazz.",
+      "author": "John Coltrane"
+    },
+    {
+      "id": 3,
+      "quote": "My first relationship to any kind of musical situation is as a listener.",
+      "author": "Pat Metheny"
+    },
+    {
+      "id": 4,
+      "quote": "When you’re creating your own shit, man, even the sky ain’t the limit.",
+      "author": "Miles Davis"
+    }]
+}

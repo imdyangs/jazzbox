@@ -1,0 +1,78 @@
+html {
+    overflow: hidden;
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    overflow: auto;
+}
+
+h1 {
+  font-family: 'joe';
+  color: white;
+  font-weight: 10;
+  font-size: 100px;
+}
+
+h3 {
+  font-family: 'Helvetica';
+  color: white;
+  font-size: 16px;
+  font-weight: 100;
+  font-style: oblique;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/*shit im doing*/
+
+  /*IN THE MAIN*/
+.Main {
+    color: red;
+}
+
+
+
+
+#container {
+    z-index: -1;
+    height: 100vh;
+    width: 100vw;
+    background-size: 100%;
+    background-image: url(./images/mainBackground.jpg);
+    background-repeat: no-repeat;
+}
+
+@font-face {
+  font-family: 'joe';
+  src:url('./joe.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'ekmuk';
+  src:url('./alex.ttf') format('truetype');
+}

@@ -1,0 +1,24 @@
+.black-box {
+  margin: 0px;
+  padding: 30px;  /* hard coded */
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 1);
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 90px;
+}
+
+.intro-text {
+  position: absolute;
+  text-align: center;
+  vertical-align: middle;
+
+}
+
+
+#bb1 {
+  right: 0px;
+}
